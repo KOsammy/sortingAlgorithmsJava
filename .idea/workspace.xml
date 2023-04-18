@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfd4fb2f-4ab8-402a-94c5-87beec83504d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting_Algorithms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BogoSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Insertion_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quick_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Selection_Sort.java" afterDir="false" />
-    </list>
+    <list default="true" id="bfd4fb2f-4ab8-402a-94c5-87beec83504d" name="Changes" comment="These are some sorting Algorithms written in Java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +41,14 @@
       <option name="presentableId" value="Default" />
       <updated>1681796805376</updated>
     </task>
+    <task id="LOCAL-00001" summary="These are some sorting Algorithms written in Java">
+      <created>1681800575719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681800575719</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,5 +61,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="These are some sorting Algorithms written in Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="These are some sorting Algorithms written in Java" />
   </component>
 </project>
